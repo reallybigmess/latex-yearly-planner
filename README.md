@@ -1,3 +1,10 @@
+Custom fork of latex-yearly-planner with some changes:
+1. Default branch is rubify
+2. Created a custom light configuration, based on one from wolfallein in discussion # 158
+
+
+==========
+
 # Latex Yearly Planner
 
 A tool to generate a yearly planner for E-Ink and tablet devices.

@@ -1,6 +1,7 @@
 *.pdf
 .vscode
 result
+out/
 
 /.bundle/
 /.yardoc
