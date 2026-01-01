@@ -2,8 +2,10 @@ Custom fork of latex-yearly-planner with some changes:
 1. Default branch is rubify
 2. Created a custom light configuration, based on one from wolfallein in discussion # 158
 
+Original README below.
 
-==========
+---
+
 
 # Latex Yearly Planner
 
